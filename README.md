@@ -23,3 +23,9 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 
 - `<Child bg={el}` This line here is a poor choice of prop and variable naming. When choosing a name, ask yourself "How will I remember it if I revisit this in a couple of years? Will a new engineer that may see this line understand the semantic purpose of these variables?". Naming is a highly important thing in software development. So you should choose something like "backgroundColor" for the first and "color" for the other one.
 - This is less important but, I don't like it when I see useless commented code, even in a sandbox. More like a personal bias, but I always prefer my deliverables to have a "production-ready" status.
+
+# October 12 React workshop second session
+  - setState
+  - branch 0 master: completed
+  - branch react--01: completed
+  - bracnh react--02: TODO
