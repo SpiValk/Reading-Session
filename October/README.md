@@ -25,7 +25,13 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 - This is less important but, I don't like it when I see useless commented code, even in a sandbox. More like a personal bias, but I always prefer my deliverables to have a "production-ready" status.
 
 # October 12 React workshop second session
-  - setState
-  - branch 0 master: completed
-  - branch react--01: completed
-  - bracnh react--02: TODO
+
+- setState
+- branch 0 master: completed
+- branch react--01: completed
+- bracnh react--02: TODO
+
+#October 13
+
+- Default parameters
+- Spread - Rest syntax
