@@ -31,7 +31,20 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 - branch react--01: completed
 - bracnh react--02: TODO
 
-#October 13
+# October 13
 
 - Default parameters
-- Spread - Rest syntax
+- Spread & Rest syntax
+
+## Lesson 13/10/2021
+
+- event lifting
+- component lifecycle(intro)
+- branch react--02: completed
+- branch react--03: TODO
+
+# October 14
+
+- Destructuring
+- Objects (syntax, methods)
+- this keyword in objects
