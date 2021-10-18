@@ -48,3 +48,16 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 - Destructuring
 - Objects (syntax, methods)
 - this keyword in objects
+
+# October 16
+
+- DOM manipulation
+
+# October 18
+
+- React Component Lifecycle
+- React Higher Order Components
+  [HOC-example](https://codesandbox.io/s/sparkling-violet-pgst7?file=/src/App.js)
+
+- branch react--03: completed
+- branch react--04: TODO
