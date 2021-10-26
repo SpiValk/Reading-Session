@@ -29,7 +29,7 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 - setState
 - branch 0 master: completed
 - branch react--01: completed
-- bracnh react--02: TODO
+- branch react--02: TODO
 
 # October 13
 
@@ -61,3 +61,30 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 
 - branch react--03: completed
 - branch react--04: TODO
+
+# October 21
+
+- react hooks (useState, useEffect)
+- branch react--04: completed
+- branch react--05: TODO
+
+# October 23
+
+- react custom hooks
+- branch react--05: completed
+- branch react--06: TODO
+
+# October 24
+
+- branch react--06: completed
+- branch react--07: completed
+- branch react--08: TODO
+
+# October 25
+
+- branch react--08: completed
+- branch react--09: TODO
+
+# October 26
+
+- branch react--09: completed
