@@ -76,6 +76,7 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 
 # October 24
 
+- react mini recap exercise
 - branch react--06: completed
 - branch react--07: completed
 - branch react--08: TODO
@@ -87,4 +88,9 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 
 # October 26
 
+- start photo gallery mini-project with react and firebase(v 9.1.3)
 - branch react--09: completed
+
+# October 27
+
+- Finished photo gallery mini-project with react and firebase(v 9.1.3)
