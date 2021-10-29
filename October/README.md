@@ -94,3 +94,8 @@ Tasos: Almost perfect! Nailed it! There are only two minor comments that they fo
 # October 27
 
 - Finished photo gallery mini-project with react and firebase(v 9.1.3)
+
+# October 28
+
+- checked react--09 brach
+- react--10: TODO
