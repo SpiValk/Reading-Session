@@ -12,3 +12,7 @@
 - DOM manipulation with event listeners (Coin Game)
 - Lesson w Tasos: Context & Intro to Redux
   - [Redux_example](https://codesandbox.io/s/dreamy-rhodes-7oq33?file=/src/index.js)
+
+# November 05
+
+- Redux (+redux dev tool) practice and understanding by creating a basic react-app example
