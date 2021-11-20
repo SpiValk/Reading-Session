@@ -44,3 +44,10 @@
 ## November 17
 
 - Call Stack, Callbacks, Promises
+
+## November 20
+
+- Tasos: Create a web application using only vanilla JS, plain CSS and HTML. The app should include a login/signup page. After the login/signup the user should be able to view, create, edit and delete todos, that have a title and a text property. There should be a search bar that when the user types a term, the todo list below should be filtered according to that term. 
+  - The app should have persistence (it should remember that the user has signed up, and also keep the current user's todos if he logs out and then logs in again.)
+  -  The login/signup should have an email and a password input with validation (proper email format, password containing both text and numbers) 
+  -  This task should be completed until Monday night (22 Nov)
